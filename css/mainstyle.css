@@ -1,0 +1,11 @@
+@include "heading.css";
+
+body{
+
+padding-top: 20px;
+	background-color:url("images/bg.jpg"); 
+	background-image: url("ic.png");
+	background-repeat: no-repeat;	
+	padding-top: 0px;
+	max-height: 100%;
+}

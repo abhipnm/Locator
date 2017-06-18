@@ -1,0 +1,14 @@
+.class1{
+
+}
+
+.body{
+
+	background-color:#00ffff; 
+	background-image: url("ic.png");
+	background-repeat: no-repeat;	
+	padding-top: 25px;
+	background-position: 50% 50%;
+	background-attachment: fixed;
+	max-height: 100%;
+}
